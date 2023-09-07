@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Visit My First Bootstrap Portfolio 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I have created my first portfolio website which took 3 days to complete which is completely build in HTML,CSS, JS and bootstrap.",
+    url: "https://ayush-p28.github.io/my-portfolio/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Freelancing Project",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is my first project which i have created by combining all my skills including frontend,backend and database & this took me 27 days + 10hrs/day to complete",
+    url: "https://ayush-p28.github.io/my-portfolio/free.html",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created my resume where you can easily find all about me including- education,skills & acheivements and other abilities",
+    url: "https://drive.google.com/file/d/1I_xXUXY8Fnk5-m2g6EcxsDYrPNNdOGrS/view?usp=sharing",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Recreated My College Site",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "When i feel my college landing page is buggy and taking too much time for loading , I recreated the landing page with features like fast page loading and minimum page size of 2mb.",
+    url: "https://ayush-p28.github.io/Baderia_Global_Engineering_College_Jabalpur/",
   },
 ];
 
